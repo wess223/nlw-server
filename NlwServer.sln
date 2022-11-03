@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NlwServer.ViewModels", "Nlw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NlwServer.Repositories", "NlwServer.Repository\NlwServer.Repositories.csproj", "{37A8118D-7780-41D5-A6B6-3E95CE3F6BF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NlwServer.Mappers", "NlwServer.Mappers\NlwServer.Mappers.csproj", "{50769216-2D40-4604-921F-C206ADE149D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{37A8118D-7780-41D5-A6B6-3E95CE3F6BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37A8118D-7780-41D5-A6B6-3E95CE3F6BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37A8118D-7780-41D5-A6B6-3E95CE3F6BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50769216-2D40-4604-921F-C206ADE149D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50769216-2D40-4604-921F-C206ADE149D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50769216-2D40-4604-921F-C206ADE149D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50769216-2D40-4604-921F-C206ADE149D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +61,7 @@ Global
 		{885C7CF5-DEE5-41A5-9825-AC94E2D6E210} = {E77D85BA-1D64-43CB-92BA-16AEEE1EA19A}
 		{80EDE96E-2CE0-4415-A9B3-E02FF184703E} = {E77D85BA-1D64-43CB-92BA-16AEEE1EA19A}
 		{37A8118D-7780-41D5-A6B6-3E95CE3F6BF3} = {E77D85BA-1D64-43CB-92BA-16AEEE1EA19A}
+		{50769216-2D40-4604-921F-C206ADE149D2} = {BD0A24C8-AD22-446A-8202-4F08E65E879C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0CD20EFB-7B04-44B1-8038-2033BACA8422}
